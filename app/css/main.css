@@ -7,7 +7,7 @@
 
 .bhromaon {
     min-height: 820px;
-  background-image: url(img/Image.png);
+  background-image: url(../../img/Image.png);
   -moz-background-size: 100%; /* Firefox 3.6+ */
     -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
     -o-background-size: 100%; /* Opera 9.6+ */
@@ -136,7 +136,7 @@ font-family: 'Josefin Sans', sans-serif;
        .choose {
            display:flex;
               min-height: 820px;
-            background-image: url(/img/eveningcity.jpg);
+            background-image: url(../../img/eveningcity.jpg);
             -moz-background-size: 100%; /* Firefox 3.6+ */
               -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
               -o-background-size: 100%; /* Opera 9.6+ */
@@ -197,7 +197,7 @@ font-family: 'Josefin Sans', sans-serif;
             padding-top: 30px;
         }
         .modern {
-          background-image: url(/img/modernhouse.jpg);
+          background-image: url(../../img/modernhouse.jpg);
           display:flex;
         -moz-background-size: 100%; /* Firefox 3.6+ */
           -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
@@ -242,7 +242,7 @@ font-family: "Josefin Sans";
          height: 45%;
        }
        .mount {
-         background-image: url(/img/cliffs.jpg);
+         background-image: url(../../img/cliffs.jpg);
          min-height: 375px;
          -moz-background-size: 100%; /* Firefox 3.6+ */
            -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
@@ -289,7 +289,7 @@ font-family: "Josefin Sans";
         padding-top: 50px;
       }
       .tourist {
-        background-image: url(/img/man.png);
+        background-image: url(../../img/man.png);
         min-height: 720px;
         -moz-background-size: 100%; /* Firefox 3.6+ */
           -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
